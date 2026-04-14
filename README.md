@@ -25,17 +25,22 @@ de contrats d'assurance — secteur banque & assurance français.
 
 Conçu spécifiquement pour les contraintes 
 du secteur bancaire français :
-✅ Modèle IA français (Mistral)
-✅ Traitement 100% local
-✅ Conforme RGPD nativement
-✅ Compatible exigences ACPR
+
+- Modèle IA français (Mistral)
+- Traitement 100% local
+- Conforme RGPD nativement
+- Compatible exigences ACPR
 
 
 ## 👤 Auteur
 
-Mohammed El Jabri
-Enseignant - Expert Data & IA
+**Mohammed El Jabri**<br> 
+Enseignant - Expert Data & IA<br>
 Univerité Technologique de Troyes
 
-👉 LinkedIn : https://www.linkedin.com/in/mohammed-el-jabri-b4435511/
+👉 LinkedIn : https://www.linkedin.com/in/mohammed-el-jabri-b4435511/<br>
 👉 mohammed.el_jabri@utt.fr
+
+---
+*Ces approches sont directement transposables 
+à des environnements professionnels réels.*

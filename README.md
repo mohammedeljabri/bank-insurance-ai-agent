@@ -42,5 +42,4 @@ Univerité Technologique de Troyes
 👉 mohammed.el_jabri@utt.fr
 
 ---
-*Ces approches sont directement transposables 
-à des environnements professionnels réels.*
+*Cet exemple, **développé à des fins pédagogiques**, illustre comment ces approches peuvent être transposées à des environnements professionnels réels dans le respect des contraintes réglementaires du secteur.*
